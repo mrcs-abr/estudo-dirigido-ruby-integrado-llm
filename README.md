@@ -1,0 +1,1 @@
+# estudo-dirigido-ruby-integrado-llm
